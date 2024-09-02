@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vishwa-rahasya/static/css/main.722d2e63.css",
+    "main.js": "/vishwa-rahasya/static/js/main.8c70594e.js",
+    "index.html": "/vishwa-rahasya/index.html",
+    "main.722d2e63.css.map": "/vishwa-rahasya/static/css/main.722d2e63.css.map",
+    "main.8c70594e.js.map": "/vishwa-rahasya/static/js/main.8c70594e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.722d2e63.css",
+    "static/js/main.8c70594e.js"
+  ]
+}
