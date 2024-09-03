@@ -85,7 +85,7 @@ function App() {
         <div className="tulsidasinfo">
           <img id='td' src={`${process.env.PUBLIC_URL}/visuals/tulsidas-photo.jpeg`} alt="Tulsidas" />
 
-          <p className='text'>Saint Tulsidas:- A Brief History
+          <p className='text'>Saint Tulsidas: A Brief History
 
             Tulsidas, a revered Indian saint, poet, and philosopher, was born around 1532 CE in Rajapur, Uttar Pradesh, India. He is renowned for his Ramcharitmanas, a retelling of the Sanskrit epic Ramayana in Awadhi, making the story of Lord Rama accessible to the common people of North India. Tulsidas's devotion to Lord Rama played a significant role in the Bhakti movement, promoting love for God over rituals. In addition to the Ramcharitmanas, his notable works include the Vinay Patrika, Kavitavali, Dohavali, and the Hanuman Chalisa.
 
