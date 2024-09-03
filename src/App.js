@@ -85,7 +85,13 @@ function App() {
         <div className="tulsidasinfo">
           <img id='td' src={`${process.env.PUBLIC_URL}/visuals/tulsidas-photo.jpeg`} alt="Tulsidas" />
 
-          <p className='text'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci asperiores, suscipit quod quia est possimus voluptate eligendi praesentium ratione id? Rem velit iste iusto ab. Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat voluptatem saepe perferendis voluptate illum? Eos perferendis sint nihil hic id. Ratione inventore doloribus illum aliquid nam architecto, voluptates animi officiis porro, odio id neque! Nam, saepe illum magni nisi architecto fugiat sint repellat quae cumque nesciunt non dignissimos id placeat!</p>
+          <p className='text'>Saint Tulsidas: A Brief History
+
+            Tulsidas, a revered Indian saint, poet, and philosopher, was born around 1532 CE in Rajapur, Uttar Pradesh, India. He is renowned for his Ramcharitmanas, a retelling of the Sanskrit epic Ramayana in Awadhi, making the story of Lord Rama accessible to the common people of North India. Tulsidas's devotion to Lord Rama played a significant role in the Bhakti movement, promoting love for God over rituals. In addition to the Ramcharitmanas, his notable works include the Vinay Patrika, Kavitavali, Dohavali, and the Hanuman Chalisa.
+
+
+            
+            The Hanuman Chalisa is a 40-verse hymn dedicated to Lord Hanuman, composed by Tulsidas around 1575 CE. Written in Awadhi, it extols Hanuman's strength, courage, and devotion. Devotees commonly recite it for blessings, protection, and strength.</p>
 
         </div>
       </div>
@@ -104,8 +110,8 @@ function App() {
 
           <div className="tab-right">
             <p className="tiles" id='right-yuga' style={{ display: visibleBox === 'right-yuga' ? 'block' : 'none' }}>12,000</p>
-            <p className="tiles" id='right-sahasra' style={{ display: visibleBox === 'right-sahasra' ? 'block' : 'none' }}>8 Miles</p>
-            <p className="tiles" id="right-yojan" style={{ display: visibleBox === 'right-yojan' ? 'block' : 'none' }}>1000</p>
+            <p className="tiles" id='right-sahasra' style={{ display: visibleBox === 'right-sahasra' ? 'block' : 'none' }}>1000</p>
+            <p className="tiles" id="right-yojan" style={{ display: visibleBox === 'right-yojan' ? 'block' : 'none' }}>8 Miles</p>
           </div>
 
         </div>
