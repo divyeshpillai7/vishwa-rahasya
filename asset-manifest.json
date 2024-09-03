@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/vishwa-rahasya/static/css/main.722d2e63.css",
-    "main.js": "/vishwa-rahasya/static/js/main.8c70594e.js",
-    "index.html": "/vishwa-rahasya/index.html",
-    "main.722d2e63.css.map": "/vishwa-rahasya/static/css/main.722d2e63.css.map",
-    "main.8c70594e.js.map": "/vishwa-rahasya/static/js/main.8c70594e.js.map"
+    "main.css": "/new-rahasya/static/css/main.aaa43585.css",
+    "main.js": "/new-rahasya/static/js/main.224bb250.js",
+    "index.html": "/new-rahasya/index.html",
+    "main.aaa43585.css.map": "/new-rahasya/static/css/main.aaa43585.css.map",
+    "main.224bb250.js.map": "/new-rahasya/static/js/main.224bb250.js.map"
   },
   "entrypoints": [
-    "static/css/main.722d2e63.css",
-    "static/js/main.8c70594e.js"
+    "static/css/main.aaa43585.css",
+    "static/js/main.224bb250.js"
   ]
 }
